@@ -97,3 +97,5 @@ Demonstrates how to build a variational autoencoder.
 Demonstrates how to build a variational autoencoder with Keras using deconvolution layers.
 
 have a try
+
+xxl is a pig 
